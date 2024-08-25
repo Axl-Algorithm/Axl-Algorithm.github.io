@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#wordsearch-container {
+    margin-bottom: 20px;
+}
+
+#wordsearch {
+    border-collapse: collapse;
+}
+
+#wordsearch td {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #000;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#wordsearch td.selected {
+    background-color: yellow;
+}
+
+#words-container {
+    text-align: left;
+}
+
+#word-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#word-list li {
+    font-size: 18px;
+}
