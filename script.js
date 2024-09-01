@@ -1,17 +1,17 @@
 const wordSearch = [
     ['O', 'H', 'V', 'L', 'I', 'K', 'A', 'D', 'X', 'Y'],
-    ['P', 'V', 'I', 'R', 'T', 'U', 'A', 'L', 'X', 'V'],
-    ['R', 'E', 'Z', 'Q', 'G', 'L', 'V', 'J', 'Y', 'E'],
-    ['C', 'E', 'Z', 'L', 'A', 'J', 'H', 'P', 'P', 'N'],
-    ['X', 'N', 'A', 'V', 'G', 'L', 'R', 'L', 'A', 'E'],
-    ['L', 'L', 'A', 'L', 'E', 'N', 'A', 'Z', 'U', 'Z'],
-    ['W', 'O', 'X', 'Q', 'I', 'Z', 'J', 'L', 'I', 'U'],
-    ['P', 'X', 'Y', 'K', 'A', 'D', 'L', 'C', 'N', 'E'],
-    ['E', 'U', 'V', 'E', 'N', 'E', 'A', 'U', 'E', 'L'],
-    ['L', 'L', 'A', 'V', 'E', 'J', 'N', 'D', 'Q', 'A']
+    ['P', 'V', 'I', 'Q', 'K', 'U', 'Z', 'L', 'X', 'S'],
+    ['G', 'E', 'Z', 'E', 'G', 'L', 'V', 'J', 'Y', 'H'],
+    ['C', 'H', 'Z', 'X', 'A', 'J', 'H', 'P', 'P', 'A'],
+    ['X', 'N', 'A', 'P', 'G', 'L', 'R', 'L', 'A', 'W'],
+    ['L', 'L', 'A', 'R', 'E', 'N', 'A', 'Z', 'U', 'A'],
+    ['W', 'O', 'X', 'E', 'A', 'Z', 'J', 'L', 'I', 'R'],
+    ['P', 'X', 'Y', 'S', 'A', 'R', 'L', 'C', 'N', 'M'],
+    ['E', 'U', 'V', 'S', 'N', 'E', 'M', 'U', 'E', 'A'],
+    ['L', 'L', 'A', 'V', 'E', 'J', 'N', 'A', 'Q', 'J']
 ];
 
-const words = ['REALIDAD', 'VIRTUAL', 'LLAVE', 'PLAZA', 'VENEZUELA'];
+const words = ['SHAWARMA', 'EXPRESS', 'LLAVE'];
 
 function createWordSearch() {
     const table = document.getElementById('wordsearch');
