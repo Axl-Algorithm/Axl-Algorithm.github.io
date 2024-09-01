@@ -11,7 +11,7 @@ const wordSearch = [
     ['I', 'Q', 'A', 'L', 'E', 'J', 'N', 'A', 'Q', 'A']
 ];
 
-const words = ['SHAWARMA', 'EXPRESS', 'LLAVE'];
+const words = ['SHAWARMA', 'EXPRESS'];
 
 function createWordSearch() {
     const table = document.getElementById('wordsearch');
