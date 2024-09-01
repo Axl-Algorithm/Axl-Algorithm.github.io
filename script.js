@@ -8,7 +8,7 @@ const wordSearch = [
     ['W', 'L', 'X', 'I', 'K', 'Z', 'J', 'L', 'I', 'A'],
     ['P', 'X', 'A', 'S', 'S', 'R', 'L', 'C', 'N', 'R'],
     ['E', 'U', 'V', 'V', 'N', 'E', 'M', 'U', 'E', 'M'],
-    ['L', 'L', 'A', 'V', 'E', 'J', 'N', 'A', 'Q', 'A']
+    ['I', 'Q', 'A', 'L', 'E', 'J', 'N', 'A', 'Q', 'A']
 ];
 
 const words = ['SHAWARMA', 'EXPRESS', 'LLAVE'];
